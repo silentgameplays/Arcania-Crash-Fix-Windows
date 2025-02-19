@@ -6,6 +6,7 @@ Arcania Windows Fix
 4. Launch the game go into Video Settings>Advanced Settings and Disable Postprocessing, everything else can be put to High Ultra, make sure the game is in Windowed mode, if not add -windowed into the General Steam Launch Options
 5. Download and install Borderless Gaming
 6. Launch the Windowed Arcania game and add it to Borderless Gaming application.
-7. Enjoy
+7. (Optional) Drop dinput8.dll into your C:\Program Files (x86)\Steam\steamapps\common\ArcaniA and C:\Program Files (x86)\Steam\steamapps\common\Arcania Fall of Setarrif for multicore issues/crashes
+8. Enjoy
 
 # silentgameplays
