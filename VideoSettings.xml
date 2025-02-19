@@ -1,0 +1,4 @@
+<AttributeTable >
+<Attribute name="resolution_x" type="ulong" value="1280" />
+<Attribute name="resolution_y" type="ulong" value="720" />
+</AttributeTable>
