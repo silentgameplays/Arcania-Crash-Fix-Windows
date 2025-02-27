@@ -7,6 +7,7 @@ Arcania Windows Fix
 5. Download and install Borderless Gaming
 6. Launch the Windowed Arcania game and add it to Borderless Gaming application.
 7. (Optional) Drop dinput8.dll into your C:\Program Files (x86)\Steam\steamapps\common\ArcaniA and C:\Program Files (x86)\Steam\steamapps\common\Arcania Fall of Setarrif for multicore issues/crashes
-8. Enjoy
+8. {Optional) Dream crash fix(if it happens) download Dream Crash Fix folder and paste the 2 files shine_glowing.wmv shine_turning.wmv into C:\Program Files (x86)\Steam\steamapps\common\ArcaniA\Data\Video 
+9. Enjoy
 
 # silentgameplays
